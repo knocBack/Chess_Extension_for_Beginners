@@ -1,0 +1,40 @@
+
+#board-vs-personalities, .fade-in-overlay {
+    background-image: url('https://www.chess.com/boards/green/150.png');
+  }
+  .coordinate-light {
+    fill: #779952;
+  }
+  .coordinate-dark {
+    fill: #edeed1;
+  }
+  .highlight {
+    background-color: #ffff00;
+  }
+#board-vs-personalities .piece.wp, #board-vs-personalities .promotion-piece.wp {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/wp.png');
+      }#board-vs-personalities .piece.wn, #board-vs-personalities .promotion-piece.wn {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/wn.png');
+      }#board-vs-personalities .piece.wb, #board-vs-personalities .promotion-piece.wb {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/wb.png');
+      }#board-vs-personalities .piece.wr, #board-vs-personalities .promotion-piece.wr {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/wr.png');
+      }#board-vs-personalities .piece.wq, #board-vs-personalities .promotion-piece.wq {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/wq.png');
+      }#board-vs-personalities .piece.wk, #board-vs-personalities .promotion-piece.wk {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/wk.png');
+      }#board-vs-personalities .piece.bp, #board-vs-personalities .promotion-piece.bp {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/bp.png');
+      }#board-vs-personalities .piece.bn, #board-vs-personalities .promotion-piece.bn {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/bn.png');
+      }#board-vs-personalities .piece.bb, #board-vs-personalities .promotion-piece.bb {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/bb.png');
+      }#board-vs-personalities .piece.br, #board-vs-personalities .promotion-piece.br {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/br.png');
+      }#board-vs-personalities .piece.bq, #board-vs-personalities .promotion-piece.bq {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/bq.png');
+      }#board-vs-personalities .piece.bk, #board-vs-personalities .promotion-piece.bk {
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/bk.png');
+      }#board-vs-personalities .square.ww{
+        background-image: url('https://www.chess.com/chess-themes/pieces/neo/150/bk.png');
+      }
